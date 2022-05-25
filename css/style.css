@@ -1,0 +1,36 @@
+body{
+    font: 18px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #8eacff;
+}
+
+.sobre-mim {
+    background-color: #eafcfd;
+}
+
+.margin {
+    padding: 30px;
+}
+
+.servico {
+    background-color: #dcedee;
+}
+
+.contact {
+    background-color: #eafcfd;
+}
+
+.bottommargin {
+    padding-left: 10px;
+}
+
+.contactmargin {
+    text-align: center;
+}
+
+.footer {
+    background-color: #dcedee;
+    color: #a9b9b9;
+}
